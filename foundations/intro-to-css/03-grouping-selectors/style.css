@@ -1,0 +1,13 @@
+.bkb, .ylwb{
+    font-size: 28px;
+    font-family: 'Helventica', 'Times New Roman', sans-serif;
+}
+
+.ylwb {
+    background-color: yellow;
+}
+
+.bkb {
+    background-color: black;
+    color: white;
+}
